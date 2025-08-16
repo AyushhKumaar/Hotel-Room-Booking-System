@@ -1,9 +1,5 @@
 # Hotel Room Booking System (Admin Panel)
 
-## Admin Panel Flowchart
-
-![Admin Panel Flowchart](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/admin-panel-flowchart.drawio.png)
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
