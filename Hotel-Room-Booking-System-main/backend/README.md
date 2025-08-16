@@ -1,12 +1,6 @@
 <!-- social media connecting shield -->
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-
-# Hotel Room Booking System (Backend)
+# Hotel Room Booking System (Backend)https://github.com/AyushhKumaar/Hotel-Room-Booking-System-/blob/main/Hotel-Room-Booking-System-main/backend/README.md
 
 ## E-R Diagram
 
@@ -14,7 +8,7 @@
 
 ## Database Relational Schema
 
-![Database Relational Schema](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/database-relational-schema.png)
+
 
 ## Installing Packages
 
