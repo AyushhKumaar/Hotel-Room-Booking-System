@@ -1,15 +1,3 @@
-<!-- social media connecting shield -->
-
-# Hotel Room Booking System (Backend)https://github.com/AyushhKumaar/Hotel-Room-Booking-System-/blob/main/Hotel-Room-Booking-System-main/backend/README.md
-
-## E-R Diagram
-
-![E-R Diagram](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/breach-resorts-e-r-diagram.drawio.png)
-
-## Database Relational Schema
-
-
-
 ## Installing Packages
 
 ```sh
